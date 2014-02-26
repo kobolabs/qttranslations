@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="uk_UA">
+<TS version="2.0" language="it_IT">
 <context>
     <name>QXmlPatternistCLI</name>
     <message>
         <source>Warning in %1, at line %2, column %3: %4</source>
-        <translation>Попередження в %1, рядок %2, позиція %3: %4</translation>
+        <translation>Avvertimento in %1, alla riga %2, colonna %3: %4</translation>
     </message>
     <message>
         <source>Warning in %1: %2</source>
-        <translation>Попередження в %1: %2</translation>
+        <translation>Avvertimento in %1: %2</translation>
     </message>
     <message>
         <source>Unknown location</source>
-        <translation>Невідома позиція</translation>
+        <translation>Posizione sconosciuta</translation>
     </message>
     <message>
         <source>Error %1 in %2, at line %3, column %4: %5</source>
-        <translation>Помилка %1 в %2, рядок %3, позиція %4: %5</translation>
+        <translation>Errore %1 in %2, alla riga %3, colonna %4: %5</translation>
     </message>
     <message>
         <source>Error %1 in %2: %3</source>
-        <translation>Помилка %1 в %2: %3</translation>
+        <translation>Errore %1 in %2: %3</translation>
     </message>
 </context>
 <context>
     <name>QtXmlPatterns</name>
     <message>
         <source>%1 is an unsupported encoding.</source>
-        <translation>Кодування %1 не підтримується.</translation>
+        <translation>%1 è una codifica non supportata.</translation>
     </message>
     <message>
         <source>%1 contains octets which are disallowed in the requested encoding %2.</source>
@@ -40,7 +40,7 @@
     </message>
     <message>
         <source>Network timeout.</source>
-        <translation type="unfinished"></translation>
+        <translation>Timeout della rete.</translation>
     </message>
     <message>
         <source>Element %1 can&apos;t be serialized because it appears outside the document element.</source>
@@ -52,23 +52,23 @@
     </message>
     <message>
         <source>Year %1 is invalid because it begins with %2.</source>
-        <translation>Рік %1 неправильний, бо він починається з %2.</translation>
+        <translation>L&apos;anno %1 non è valido perchè comincia con %2.</translation>
     </message>
     <message>
         <source>Day %1 is outside the range %2..%3.</source>
-        <translation>День %1 поза межами діапазону %2..%3.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Month %1 is outside the range %2..%3.</source>
-        <translation>Місяць %1 поза межами діапазону %2..%3.</translation>
+        <translation>Il mese %1 è fuori dall&apos;intervallo %2..%3.</translation>
     </message>
     <message>
         <source>Overflow: Can&apos;t represent date %1.</source>
-        <translation>Переповнення: Не можу представити дату %1.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Day %1 is invalid for month %2.</source>
-        <translation>Неправильний день %1 для місяця %2.</translation>
+        <translation>Il giorno %1 non è valido per il mese %2.</translation>
     </message>
     <message>
         <source>Time 24:%1:%2.%3 is invalid. Hour is 24, but minutes, seconds, and milliseconds are not all 0; </source>
@@ -76,15 +76,15 @@
     </message>
     <message>
         <source>Time %1:%2:%3.%4 is invalid.</source>
-        <translation>Неправильний час %1:%2:%3.%4.</translation>
+        <translation>L&apos;ora %1:%2:%3.%4 non è valida.</translation>
     </message>
     <message>
         <source>Overflow: Date can&apos;t be represented.</source>
-        <translation>Переповнення: Не можу представити дату.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>At least one component must be present.</source>
-        <translation>Щонайменше один компонент має бути присутнім.</translation>
+        <translation>Almeno un componente deve essere presente.</translation>
     </message>
     <message>
         <source>At least one time component must appear after the %1-delimiter.</source>
@@ -92,7 +92,7 @@
     </message>
     <message>
         <source>%1 is not a valid value of type %2.</source>
-        <translation>%1 не є правильним значенням для типу %2.</translation>
+        <translation>%1 non è un valore valido per il tipo %2.</translation>
     </message>
     <message>
         <source>When casting to %1 from %2, the source value cannot be %3.</source>
@@ -100,11 +100,11 @@
     </message>
     <message>
         <source>Integer division (%1) by zero (%2) is undefined.</source>
-        <translation>Цілочисельне ділення (%1) на нуль (%2) не визначене.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Division (%1) by zero (%2) is undefined.</source>
-        <translation>Ділення (%1) на нуль (%2) не визначене.</translation>
+        <translation>La divisione (%1) per zero (%2) non è definita.</translation>
     </message>
     <message>
         <source>Modulus division (%1) by zero (%2) is undefined.</source>
@@ -132,11 +132,11 @@
     </message>
     <message>
         <source>Value %1 of type %2 exceeds maximum (%3).</source>
-        <translation>Значення %1 типу %2 перевищує максимум (%3).</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Value %1 of type %2 is below minimum (%3).</source>
-        <translation>Значення %1 типу %2 менше за мінімум (%3).</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>A value of type %1 must contain an even number of digits. The value %2 does not.</source>
@@ -144,7 +144,7 @@
     </message>
     <message>
         <source>%1 is not valid as a value of type %2.</source>
-        <translation>%1 не є правильним значенням для типу %2.</translation>
+        <translation>%1 non è valido come valore di tipo %2.</translation>
     </message>
     <message>
         <source>Ambiguous rule match.</source>
@@ -152,11 +152,11 @@
     </message>
     <message>
         <source>Operator %1 cannot be used on type %2.</source>
-        <translation>Оператор %1 не може використовуватись для типу %2.</translation>
+        <translation>L&apos;operatore %1 non può essere usato per il tipo %2.</translation>
     </message>
     <message>
         <source>Operator %1 cannot be used on atomic values of type %2 and %3.</source>
-        <translation>Оператор %1 не може використовуватись для атомарних значень типу %2 та %3.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The namespace URI in the name for a computed attribute cannot be %1.</source>
@@ -176,11 +176,11 @@
     </message>
     <message>
         <source>A comment cannot contain %1</source>
-        <translation>Коментар не може містити %1</translation>
+        <translation>Un commento non può contenere %1</translation>
     </message>
     <message>
         <source>A comment cannot end with a %1.</source>
-        <translation>Коментар не може закінчуватись на %1.</translation>
+        <translation>Un commento non può terminare con %1.</translation>
     </message>
     <message>
         <source>In a namespace constructor, the value for a namespace cannot be an empty string.</source>
@@ -192,7 +192,7 @@
     </message>
     <message>
         <source>The prefix %1 cannot be bound.</source>
-        <translation>Неможливо прив&apos;язати префікс %1.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Only the prefix %1 can be bound to %2 and vice versa.</source>
@@ -208,7 +208,7 @@
     </message>
     <message>
         <source>No template by name %1 exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non esiste nessun template con il nome %1.</translation>
     </message>
     <message>
         <source>A value of type %1 cannot be a predicate. A predicate must have either a numeric type or an Effective Boolean Value type.</source>
@@ -244,7 +244,7 @@
     </message>
     <message>
         <source>%1 is an invalid %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 è un %2 non valido</translation>
     </message>
     <message>
         <source>The parameter %1 is passed, but no corresponding %2 exists.</source>
@@ -259,13 +259,11 @@
         <translation type="unfinished">
             <numerusform></numerusform>
             <numerusform></numerusform>
-            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%1 requires at least %n argument(s). %2 is therefore invalid.</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
             <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
@@ -284,7 +282,7 @@
     </message>
     <message>
         <source>%1 is not a valid XML 1.0 character.</source>
-        <translation>%1 не є правильним символом XML 1.0.</translation>
+        <translation>%1 non è un carattere XML 1.0 valido.</translation>
     </message>
     <message>
         <source>The root node of the second argument to function %1 must be a document node. %2 is not a document node.</source>
@@ -296,7 +294,7 @@
     </message>
     <message>
         <source>%1 was called.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 è stato chiamato.</translation>
     </message>
     <message>
         <source>%1 must be followed by %2 or %3, not at the end of the replacement string.</source>
@@ -348,7 +346,7 @@
     </message>
     <message>
         <source>%1 cannot be retrieved</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 non può essere recuperato</translation>
     </message>
     <message>
         <source>The normalization form %1 is unsupported. The supported forms are %2, %3, %4, and %5, and none, i.e. the empty string (no normalization).</source>
@@ -372,11 +370,11 @@
     </message>
     <message>
         <source>The item %1 did not match the required type %2.</source>
-        <translation>Елемент %1 не відповідає необхідному типу %2.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The variable %1 is unused</source>
-        <translation>Змінна %1 не використовується</translation>
+        <translation>La variabile %1 è inutilizzata</translation>
     </message>
     <message>
         <source>W3C XML Schema identity constraint selector</source>
@@ -412,11 +410,11 @@
     </message>
     <message>
         <source>No variable with name %1 exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Non esiste alcuna variabile con il nome %1</translation>
     </message>
     <message>
         <source>Version %1 is not supported. The supported XQuery version is 1.0.</source>
-        <translation>Версія %1 не підтримується. Підтримується XQuery версії 1.0.</translation>
+        <translation>La versione %1 non è supportata. La versione di XQuery supportata è 1.0.</translation>
     </message>
     <message>
         <source>The encoding %1 is invalid. It must contain Latin characters only, must not contain whitespace, and must match the regular expression %2.</source>
@@ -424,7 +422,7 @@
     </message>
     <message>
         <source>No function with signature %1 is available</source>
-        <translation type="unfinished"></translation>
+        <translation>Non è disponibile alcuna funzione con la firma %1</translation>
     </message>
     <message>
         <source>A default namespace declaration must occur before function, variable, and option declarations.</source>
@@ -472,11 +470,11 @@
     </message>
     <message>
         <source>The module import feature is not supported</source>
-        <translation>Можливість імпорту модулів не підтримується</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>A variable with name %1 has already been declared.</source>
-        <translation type="unfinished"></translation>
+        <translation>Una variable con nome %1 è già stata dichiarata.</translation>
     </message>
     <message>
         <source>No value is available for the external variable with name %1.</source>
@@ -560,7 +558,7 @@
     </message>
     <message>
         <source>No function with name %1 is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessuna funzione con nome %1 è disponibile.</translation>
     </message>
     <message>
         <source>The namespace URI cannot be the empty string when binding to a prefix, %1.</source>
@@ -632,7 +630,7 @@
     </message>
     <message>
         <source>Parse error: %1</source>
-        <translation>Помилка розбору: %1</translation>
+        <translation>Errore di analisi: %1</translation>
     </message>
     <message>
         <source>The value of the XSL-T version attribute must be a value of type %1, which %2 isn&apos;t.</source>
@@ -644,7 +642,7 @@
     </message>
     <message>
         <source>Unknown XSL-T attribute %1.</source>
-        <translation>Невідомий атрибут XSL-T %1.</translation>
+        <translation>Attributo XSL-T %1 sconosciuto.</translation>
     </message>
     <message>
         <source>Attribute %1 and %2 are mutually exclusive.</source>
@@ -1156,11 +1154,11 @@
     </message>
     <message>
         <source>%1 attribute of %2 element contains invalid content: {%3} is not a value of type %4.</source>
-        <translation>Атрибут %1 елемента %2 містить неправильний вміст: {%3} не є значенням типу %4.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 attribute of %2 element contains invalid content: {%3}.</source>
-        <translation>Атрибут %1 елемента %2 містить неправильний вміст: {%3}.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Target namespace %1 of included schema is different from the target namespace %2 as defined by the including schema.</source>
@@ -1192,15 +1190,15 @@
     </message>
     <message>
         <source>%1 attribute of %2 element must be %3 or %4.</source>
-        <translation>Атрибут %1 елемента %2 має бути %3 або %4.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 attribute of %2 element must have a value of %3.</source>
-        <translation>Атрибут %1 елемента %2 повинен мати значення %3.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 attribute of %2 element must have a value of %3 or %4.</source>
-        <translation>Атрибут %1 елемента %2 повинен мати значення %3 або %4.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 element must not have %2 and %3 attribute together.</source>
@@ -1212,11 +1210,11 @@
     </message>
     <message>
         <source>%1 attribute of %2 element must not be %3.</source>
-        <translation>Атрибут %1 елемента %2 не може бути %3.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 attribute of %2 element must have the value %3 because the %4 attribute is set.</source>
-        <translation>Атрибут %1 елемента %2 повинен мати значення %3, оскільки встановлено атрибут %4.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Specifying use=&apos;prohibited&apos; inside an attribute group has no effect.</source>
@@ -1240,7 +1238,7 @@
     </message>
     <message>
         <source>%1 attribute of %2 element must contain %3, %4 or a list of URIs.</source>
-        <translation>Атрибут %1 елемента %2 повинен містити %3, %4 або список URI.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 element is not allowed in this context.</source>
@@ -1248,7 +1246,7 @@
     </message>
     <message>
         <source>%1 attribute of %2 element has larger value than %3 attribute.</source>
-        <translation>Атрибут %1 елемента %2 має більше значення ніж атрибут %3.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Prefix of qualified name %1 is not defined.</source>
@@ -1256,7 +1254,7 @@
     </message>
     <message>
         <source>%1 attribute of %2 element must either contain %3 or the other values.</source>
-        <translation>Атрибут %1 елемента %2 повинен містити %3 або інші значення.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Component with ID %1 has been defined previously.</source>
@@ -1272,7 +1270,7 @@
     </message>
     <message>
         <source>Type %1 already defined.</source>
-        <translation>Тип %1 вже визначено.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Attribute group %1 already defined.</source>
@@ -1412,7 +1410,7 @@
     </message>
     <message>
         <source>%1 is not valid according to %2.</source>
-        <translation>%1 не є правильним відповідно до %2.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>String content does not match the length facet.</source>
@@ -1652,7 +1650,7 @@
     </message>
     <message>
         <source>%1 contains invalid data.</source>
-        <translation>Неправильні дані в %1.</translation>
+        <translation>%1 contiene dati non validi.</translation>
     </message>
     <message>
         <source>xsi:schemaLocation namespace %1 has already appeared earlier in the instance document.</source>
@@ -1808,27 +1806,27 @@
     </message>
     <message>
         <source>empty</source>
-        <translation type="unfinished"></translation>
+        <translation>vuoto</translation>
     </message>
     <message>
         <source>zero or one</source>
-        <translation>нуль чи один</translation>
+        <translation>zero o uno</translation>
     </message>
     <message>
         <source>exactly one</source>
-        <translation type="unfinished"></translation>
+        <translation>esattamente uno</translation>
     </message>
     <message>
         <source>one or more</source>
-        <translation>один чи більше</translation>
+        <translation>uno o più</translation>
     </message>
     <message>
         <source>zero or more</source>
-        <translation>нуль чи більше</translation>
+        <translation>zero o più</translation>
     </message>
     <message>
         <source>Required type is %1, but %2 was found.</source>
-        <translation>Вимагається тип %1, але знайдено %2.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Promoting %1 to %2 may cause loss of precision.</source>

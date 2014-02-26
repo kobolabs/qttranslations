@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ja">
+<TS version="2.0" language="it_IT">
 <context>
     <name>QScriptBreakpointsModel</name>
     <message>
@@ -9,49 +9,49 @@
     </message>
     <message>
         <source>Location</source>
-        <translation>ファイル:行番号</translation>
+        <translation>Posizione</translation>
     </message>
     <message>
         <source>Condition</source>
-        <translation>条件</translation>
+        <translation>Condizione</translation>
     </message>
     <message>
         <source>Ignore-count</source>
-        <translation>無視する回数</translation>
+        <translation>Ignora contatore</translation>
     </message>
     <message>
         <source>Single-shot</source>
-        <translation>初回のみ</translation>
+        <translation>Una sola volta</translation>
     </message>
     <message>
         <source>Hit-count</source>
-        <translation>ヒットした回数</translation>
+        <translation>Raggiunto</translation>
     </message>
 </context>
 <context>
     <name>QScriptBreakpointsWidget</name>
     <message>
         <source>New</source>
-        <translation>新規</translation>
+        <translation>Nuovo</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>削除</translation>
+        <translation>Elimina</translation>
     </message>
 </context>
 <context>
     <name>QScriptDebugger</name>
     <message>
         <source>Go to Line</source>
-        <translation>指定した行へ移動</translation>
+        <translation>Vai alla riga</translation>
     </message>
     <message>
         <source>Line:</source>
-        <translation>行番号:</translation>
+        <translation>Riga:</translation>
     </message>
     <message>
         <source>Interrupt</source>
-        <translation>割り込み</translation>
+        <translation>Interrompi</translation>
     </message>
     <message>
         <source>Shift+F5</source>
@@ -59,7 +59,7 @@
     </message>
     <message>
         <source>Continue</source>
-        <translation>続行</translation>
+        <translation>Continua</translation>
     </message>
     <message>
         <source>F5</source>
@@ -67,7 +67,7 @@
     </message>
     <message>
         <source>Step Into</source>
-        <translation>ステップイン</translation>
+        <translation>Passa dentro</translation>
     </message>
     <message>
         <source>F11</source>
@@ -75,7 +75,7 @@
     </message>
     <message>
         <source>Step Over</source>
-        <translation>ステップオーバー</translation>
+        <translation>Passa oltre</translation>
     </message>
     <message>
         <source>F10</source>
@@ -83,7 +83,7 @@
     </message>
     <message>
         <source>Step Out</source>
-        <translation>ステップアウト</translation>
+        <translation>Passa fuori</translation>
     </message>
     <message>
         <source>Shift+F11</source>
@@ -91,7 +91,7 @@
     </message>
     <message>
         <source>Run to Cursor</source>
-        <translation>カーソル位置まで実行</translation>
+        <translation>Esegui fino al cursore</translation>
     </message>
     <message>
         <source>Ctrl+F10</source>
@@ -99,11 +99,11 @@
     </message>
     <message>
         <source>Run to New Script</source>
-        <translation>新たなスクリプトまで実行</translation>
+        <translation>Esegui fino al nuovo script</translation>
     </message>
     <message>
         <source>Toggle Breakpoint</source>
-        <translation>ブレークポイントの有効/無効の切り替え</translation>
+        <translation>Abilita/Disabilita punto di interruzione</translation>
     </message>
     <message>
         <source>F9</source>
@@ -111,19 +111,19 @@
     </message>
     <message>
         <source>Clear Debug Output</source>
-        <translation>デバッグ出力のクリア</translation>
+        <translation>Pulisci output di debug</translation>
     </message>
     <message>
         <source>Clear Error Log</source>
-        <translation>エラーログのクリア</translation>
+        <translation>Pulisci log degli errori</translation>
     </message>
     <message>
         <source>Clear Console</source>
-        <translation>コンソールのクリア</translation>
+        <translation>Pulisci console</translation>
     </message>
     <message>
         <source>&amp;Find in Script...</source>
-        <translation>スクリプト内を検索(&amp;F)...</translation>
+        <translation>&amp;Trova nello script...</translation>
     </message>
     <message>
         <source>Ctrl+F</source>
@@ -131,7 +131,7 @@
     </message>
     <message>
         <source>Find &amp;Next</source>
-        <translation>次を検索(&amp;N)</translation>
+        <translation>Trova &amp;successivo</translation>
     </message>
     <message>
         <source>F3</source>
@@ -139,7 +139,7 @@
     </message>
     <message>
         <source>Find &amp;Previous</source>
-        <translation>前を検索(&amp;P)</translation>
+        <translation>Trova &amp;precedente</translation>
     </message>
     <message>
         <source>Shift+F3</source>
@@ -151,129 +151,129 @@
     </message>
     <message>
         <source>Debug</source>
-        <translation>デバッグ</translation>
+        <translation>Debug</translation>
     </message>
 </context>
 <context>
     <name>QScriptDebuggerCodeFinderWidget</name>
     <message>
         <source>Close</source>
-        <translation>閉じる</translation>
+        <translation>Chiudi</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation>前を検索</translation>
+        <translation>Precedente</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation>次を検索</translation>
+        <translation>Successivo</translation>
     </message>
     <message>
         <source>Case Sensitive</source>
-        <translation>大文字/小文字を区別する</translation>
+        <translation>Distingui le maiuscole</translation>
     </message>
     <message>
         <source>Whole words</source>
-        <translation>単語単位で検索する</translation>
+        <translation>Parole intere</translation>
     </message>
     <message>
         <source>&lt;img src=&quot;:/qt/scripttools/debugging/images/wrap.png&quot;&gt;&amp;nbsp;Search wrapped</source>
-        <translation>&lt;img src=&quot;:/qt/scripttools/debugging/images/wrap.png&quot;&gt;&amp;nbsp;先頭から再び検索します</translation>
+        <translation>&lt;img src=&quot;:/qt/scripttools/debugging/images/wrap.png&quot;&gt;&amp;nbsp;Riavvolgimento ricerca</translation>
     </message>
 </context>
 <context>
     <name>QScriptDebuggerLocalsModel</name>
     <message>
         <source>Name</source>
-        <translation>名前</translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>値</translation>
+        <translation>Valore</translation>
     </message>
 </context>
 <context>
     <name>QScriptDebuggerStackModel</name>
     <message>
         <source>Level</source>
-        <translation>レベル</translation>
+        <translation>Livello</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>名前</translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation>ファイル:行番号</translation>
+        <translation>Posizione</translation>
     </message>
 </context>
 <context>
     <name>QScriptEdit</name>
     <message>
         <source>Toggle Breakpoint</source>
-        <translation>ブレークポイントの有効/無効の切り替え</translation>
+        <translation>Abilita/Disabilita punto di interruzione</translation>
     </message>
     <message>
         <source>Disable Breakpoint</source>
-        <translation>ブレークポイントを無効にする</translation>
+        <translation>Disabilita punto di interruzione</translation>
     </message>
     <message>
         <source>Enable Breakpoint</source>
-        <translation>ブレークポイントを有効にする</translation>
+        <translation>Abilita punto di interruzione</translation>
     </message>
     <message>
         <source>Breakpoint Condition:</source>
-        <translation>ブレークポイントの条件:</translation>
+        <translation>Condizione del punto di interruzione:</translation>
     </message>
 </context>
 <context>
     <name>QScriptEngineDebugger</name>
     <message>
         <source>Loaded Scripts</source>
-        <translation>ロードしたスクリプト</translation>
+        <translation>Script caricati</translation>
     </message>
     <message>
         <source>Breakpoints</source>
-        <translation>ブレークポイント</translation>
+        <translation>Punti di interruzione</translation>
     </message>
     <message>
         <source>Stack</source>
-        <translation>スタック</translation>
+        <translation>Stack</translation>
     </message>
     <message>
         <source>Locals</source>
-        <translation>ローカル変数</translation>
+        <translation>Variabili locali</translation>
     </message>
     <message>
         <source>Console</source>
-        <translation>コンソール</translation>
+        <translation>Console</translation>
     </message>
     <message>
         <source>Debug Output</source>
-        <translation>デバッグ出力</translation>
+        <translation>Output di debug</translation>
     </message>
     <message>
         <source>Error Log</source>
-        <translation>エラーログ</translation>
+        <translation>Log degli errori</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation>検索</translation>
+        <translation>Ricerca</translation>
     </message>
     <message>
         <source>View</source>
-        <translation>表示</translation>
+        <translation>Visualizza</translation>
     </message>
     <message>
         <source>Qt Script Debugger</source>
-        <translation>Qt Script デバッガ</translation>
+        <translation>Debugger Qt Script</translation>
     </message>
 </context>
 <context>
     <name>QScriptNewBreakpointWidget</name>
     <message>
         <source>Close</source>
-        <translation>閉じる</translation>
+        <translation>Chiudi</translation>
     </message>
 </context>
 </TS>

@@ -1,586 +1,665 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="uk_UA">
+<TS version="2.0" language="it_IT">
 <context>
     <name>AudioCaptureSession</name>
     <message>
         <source>RAW file format</source>
-        <translation type="vanished">Файл формату RAW</translation>
+        <translation>Formato file RAW</translation>
     </message>
     <message>
         <source>WAV file format</source>
-        <translation type="vanished">Файл формату WAV</translation>
+        <translation>Formato file WAV</translation>
     </message>
 </context>
 <context>
     <name>AudioContainerControl</name>
     <message>
         <source>RAW (headerless) file format</source>
-        <translation>Файл формату RAW (без заголовку)</translation>
+        <translation>Formato file RAW (senza intestazione)</translation>
     </message>
     <message>
         <source>WAV file format</source>
-        <translation>Файл формату WAV</translation>
+        <translation>Formato file WAV</translation>
     </message>
 </context>
 <context>
     <name>AudioEncoderControl</name>
     <message>
         <source>PCM audio data</source>
-        <translation type="vanished">Аудіо-дані PCM</translation>
+        <translation>Dati audio PCM</translation>
     </message>
     <message>
         <source>Linear PCM audio data</source>
-        <translation>Лінійні аудіо-дані PCM</translation>
+        <translation>Dati audio PCM lineari</translation>
     </message>
 </context>
 <context>
     <name>BbCameraAudioEncoderSettingsControl</name>
     <message>
         <source>No compression</source>
-        <translation>Без стиснення</translation>
+        <translation>Nessuna compressione</translation>
     </message>
     <message>
         <source>AAC compression</source>
-        <translation>Стиснення AAC</translation>
+        <translation>Compressione AAC</translation>
     </message>
     <message>
         <source>PCM uncompressed</source>
-        <translation>Без стиснення PCM</translation>
+        <translation>PCM non compresso</translation>
     </message>
 </context>
 <context>
     <name>BbCameraMediaRecorderControl</name>
     <message>
         <source>Unable to retrieve mute status</source>
-        <translation>Неможливо отримати стан вимкнення звуку</translation>
+        <translation>Impossibile recuperare lo stato di mute</translation>
     </message>
     <message>
         <source>Unable to retrieve audio input volume</source>
-        <translation>Неможливо отримати гучність вхідного звуку</translation>
+        <translation>Impossibile recuperare il volume di ingresso dell&apos;audio</translation>
     </message>
     <message>
         <source>Unable to set mute status</source>
-        <translation>Неможливо встановити стан вимкнення звуку</translation>
+        <translation>Impossibile impostare lo stato di mute</translation>
     </message>
     <message>
         <source>Unable to set audio input volume</source>
-        <translation>Неможливо встановити гучність вхідного звуку</translation>
+        <translation>Impossibile impostare il volume di ingresso dell&apos;audio</translation>
     </message>
 </context>
 <context>
     <name>BbCameraSession</name>
     <message>
         <source>Camera provides image in unsupported format</source>
-        <translation>Камера надає зображення в форматі, що не підтримується</translation>
+        <translation>La fotocamera fornisce immagini in un formato non supportato</translation>
     </message>
     <message>
         <source>Could not load JPEG data from frame</source>
-        <translation>Не вдалось завантажити дані JPEG з кадру</translation>
+        <translation>Impossibile caricare i dati JPEG dal fotogramma</translation>
     </message>
     <message>
         <source>Camera not ready</source>
-        <translation>Камера не готова</translation>
+        <translation>Fotocamera non pronta</translation>
     </message>
     <message>
         <source>Unable to apply video settings</source>
-        <translation>Неможливо застосувати налаштування відео</translation>
+        <translation>Impossibile applicare le impostazioni del video</translation>
     </message>
     <message>
         <source>Could not open destination file:
 %1</source>
-        <translation>Не вдалось відкрити файл-отримувач:
+        <translation>Impossibile aprire il file di destinazione:
 %1</translation>
     </message>
     <message>
         <source>Unable to open camera</source>
-        <translation>Неможливо відкрити камеру</translation>
+        <translation>Impossibile aprire la fotocamera</translation>
     </message>
     <message>
         <source>Unable to retrieve native camera orientation</source>
-        <translation>Неможливо отримати рідну орієнтацію камери</translation>
+        <translation>Impossibile recuperare l&apos;orientamento nativo della fotocamera</translation>
     </message>
     <message>
         <source>Unable to close camera</source>
-        <translation>Неможливо закрити камеру</translation>
+        <translation>Impossibile chiudere la fotocamera</translation>
     </message>
     <message>
         <source>Unable to start video recording</source>
-        <translation>Неможливо розпочати запис відео</translation>
+        <translation>Impossibile avviare la registrazione del video</translation>
     </message>
     <message>
         <source>Unable to stop video recording</source>
-        <translation>Неможливо закінчити запис відео</translation>
+        <translation>Impossibile interrompere la registrazione del video</translation>
     </message>
 </context>
 <context>
     <name>BbCameraVideoEncoderSettingsControl</name>
     <message>
         <source>No compression</source>
-        <translation>Без стиснення</translation>
+        <translation>Nessuna compressione</translation>
     </message>
     <message>
         <source>AVC1 compression</source>
-        <translation>Стиснення AVC1</translation>
+        <translation>Compressione AVC1</translation>
     </message>
     <message>
         <source>H264 compression</source>
-        <translation>Стиснення H264</translation>
+        <translation>Compressione H264</translation>
     </message>
 </context>
 <context>
     <name>BbImageEncoderControl</name>
     <message>
         <source>JPEG image</source>
-        <translation>Зображення JPEG</translation>
+        <translation>Immagine JPEG</translation>
     </message>
 </context>
 <context>
     <name>BbVideoDeviceSelectorControl</name>
     <message>
         <source>Front Camera</source>
-        <translation>Передня камера</translation>
+        <translation>Fotocamera frontale</translation>
     </message>
     <message>
         <source>Rear Camera</source>
-        <translation>Задня камера</translation>
+        <translation>Fotocamera posteriore</translation>
     </message>
     <message>
         <source>Desktop Camera</source>
-        <translation>Камера стільниці</translation>
+        <translation>Fotocamera del desktop</translation>
     </message>
 </context>
 <context>
     <name>CameraBinImageCapture</name>
     <message>
         <source>Camera not ready</source>
-        <translation>Камера не готова</translation>
+        <translation>Fotocamera non pronta</translation>
     </message>
 </context>
 <context>
     <name>CameraBinImageEncoder</name>
     <message>
         <source>JPEG image</source>
-        <translation>Зображення JPEG</translation>
+        <translation>Immagine JPEG</translation>
     </message>
 </context>
 <context>
     <name>CameraBinRecorder</name>
     <message>
         <source>QMediaRecorder::pause() is not supported by camerabin2.</source>
-        <translation>QMediaRecorder::pause() не підтримується camerabin2.</translation>
+        <translation>QMediaRecorder::pause() non è supportato da camerabin2.</translation>
     </message>
     <message>
         <source>Service has not been started</source>
-        <translation>Сервіс не було запущено</translation>
+        <translation>Il servizio non è stato avviato</translation>
     </message>
 </context>
 <context>
     <name>CameraBinSession</name>
     <message>
         <source>Camera error</source>
-        <translation>Помилка камери</translation>
+        <translation>Errore fotocamera</translation>
     </message>
 </context>
 <context>
     <name>MFPlayerSession</name>
     <message>
+        <source>Invalid stream source!</source>
+        <translation>Sorgente del flusso non valida!</translation>
+    </message>
+    <message>
+        <source>Attempting to play invalid Qt resource</source>
+        <translation>Tentativo di riproduzione di una risorsa Qt non valida</translation>
+    </message>
+    <message>
         <source>Invalid stream source.</source>
-        <translation>Неправильне джерело потоку.</translation>
+        <translation>Sorgente del flusso non valida.</translation>
     </message>
     <message>
         <source>Attempting to play invalid Qt resource.</source>
-        <translation>Спроба відтворити неправильний ресурс Qt.</translation>
+        <translation>Tentativo di riproduzione di una risorsa Qt non valida.</translation>
     </message>
     <message>
         <source>The system cannot find the file specified.</source>
-        <translation>Система не може знайти вказаний файл.</translation>
+        <translation>Il sistema non può trovare il file specificato.</translation>
     </message>
     <message>
         <source>The specified server could not be found.</source>
-        <translation>Неможливо знайти вказаний сервер.</translation>
+        <translation>Il server specificato non può essere trovato.</translation>
     </message>
     <message>
         <source>Unsupported media type.</source>
-        <translation>Непідтримуваний тип медіа.</translation>
+        <translation>Tipo multimediale non supportato.</translation>
     </message>
     <message>
         <source>Failed to load source.</source>
-        <translation>Збій завантаженн джерела.</translation>
+        <translation>Caricamento della sorgente non riuscito.</translation>
     </message>
     <message>
         <source>Cannot create presentation descriptor.</source>
-        <translation>Неможливо створити дескриптор представлення.</translation>
+        <translation>Impossibile creare il descrittore di presentazione.</translation>
     </message>
     <message>
         <source>Failed to get stream count.</source>
-        <translation>Збій отримання кількості потоків.</translation>
+        <translation>Impossibile recuperare il numero di flussi.</translation>
     </message>
     <message>
         <source>Failed to create topology.</source>
-        <translation>Збій створення топології.</translation>
+        <translation>Creazione della tolopogia non riuscita.</translation>
     </message>
     <message>
         <source>Unable to play any stream.</source>
-        <translation>Неможливо відтворити жодний потік.</translation>
+        <translation>Impossibile riprodurre alcun flusso.</translation>
     </message>
     <message>
         <source>Unable to play.</source>
-        <translation>Неможливо відтворити.</translation>
+        <translation>Impossibile effettuare la riproduzione.</translation>
     </message>
     <message>
         <source>Failed to set topology.</source>
-        <translation>Збій встановлення топології.</translation>
+        <translation>Impostazione della topologia non riuscita.</translation>
     </message>
     <message>
         <source>Unknown stream type.</source>
-        <translation>Невідомий тип потоку.</translation>
+        <translation>Tipo di flusso sconosciuto.</translation>
     </message>
     <message>
         <source>Failed to stop.</source>
-        <translation>Збій зупинки.</translation>
-    </message>
-    <message>
-        <source>failed to start playback</source>
-        <translation>збій запуску відтворення</translation>
+        <translation>Interruzione non riuscita.</translation>
     </message>
     <message>
         <source>Failed to pause.</source>
-        <translation>Збій паузи.</translation>
+        <translation>Pausa non riuscita.</translation>
     </message>
     <message>
         <source>Unable to create mediasession.</source>
-        <translation>Неможливо створити медіа-сесію.</translation>
+        <translation>Impossibile creare una sessione multimediale.</translation>
     </message>
     <message>
         <source>Unable to pull session events.</source>
-        <translation>Неможливо отримати події сесії.</translation>
+        <translation>Impossibile ottenere gli eventi della sessione.</translation>
     </message>
     <message>
         <source>Failed to seek.</source>
-        <translation>Збій переміщення.</translation>
+        <translation>Ricerca non riuscita.</translation>
     </message>
     <message>
         <source>Media session non-fatal error.</source>
-        <translation>Нефатальна помилка медіа-сесії.</translation>
+        <translation>Errore non fatale della sessione multimediale.</translation>
     </message>
     <message>
         <source>Media session serious error.</source>
-        <translation>Серйозна помилка медіа-сесії.</translation>
+        <translation>Errore grave della sessione multimediale.</translation>
     </message>
     <message>
         <source>Unsupported media, a codec is missing.</source>
-        <translation>Непідтримувана медіа, .відсутній кодек.</translation>
+        <translation>Formato non supportato, un codec risulta mancante.</translation>
+    </message>
+    <message>
+        <source>Can&apos;t create presentation descriptor!</source>
+        <translation>Impossibile creare il descrittore di presentazione!</translation>
+    </message>
+    <message>
+        <source>Failed to get stream count</source>
+        <translation>Impossibile recuperare il numero di flussi</translation>
+    </message>
+    <message>
+        <source>Failed to create topology!</source>
+        <translation>Creazione della tolopogia non riuscito!</translation>
+    </message>
+    <message>
+        <source>Unable to play some stream</source>
+        <translation>Impossibile riprodurre alcuni flussi</translation>
+    </message>
+    <message>
+        <source>Unable to play</source>
+        <translation>Impossibile effettuare la riproduzione</translation>
+    </message>
+    <message>
+        <source>Failed to set topology!</source>
+        <translation>Impostazione della topologia non riuscita!</translation>
+    </message>
+    <message>
+        <source>Unknown stream type</source>
+        <translation>Tipo di flusso sconosciuto</translation>
+    </message>
+    <message>
+        <source>failed to stop</source>
+        <translation>stop non riuscito</translation>
+    </message>
+    <message>
+        <source>failed to start playback</source>
+        <translation>impossibile avviare la riproduzione</translation>
+    </message>
+    <message>
+        <source>failed to pause</source>
+        <translation>pausa fallita</translation>
+    </message>
+    <message>
+        <source>Unable to create mediasession</source>
+        <translation>Impossibile creare una sessione multimediale</translation>
+    </message>
+    <message>
+        <source>Unable to pulling session events</source>
+        <translation>Impossibile ottenere gli eventi della sessione</translation>
+    </message>
+    <message>
+        <source>failed to seek</source>
+        <translation>ricerca fallita</translation>
+    </message>
+    <message>
+        <source>media session non-fatal error!</source>
+        <translation>errore non fatale della sessione multimediale!</translation>
+    </message>
+    <message>
+        <source>media session serious error!</source>
+        <translation>errore grave della sessione multimediale!</translation>
     </message>
 </context>
 <context>
     <name>PLSParser</name>
     <message>
+        <source>Error parsing pls: %1, expected count = %2</source>
+        <translation>Errore di analisi pls: %1, valore atteso = %2</translation>
+    </message>
+    <message>
+        <source>Error parsing pls at line[%1], expected version = 2</source>
+        <translation>Errore di analisi pls alla riga[%1], versione attesa = 2</translation>
+    </message>
+    <message>
+        <source>Error parsing pls at line[%1]:%2</source>
+        <translation>Errore di analisi pls alla riga[%1]:%2</translation>
+    </message>
+    <message>
         <source>Error parsing playlist: %1, expected count = %2</source>
-        <translation>Помилка розбору списку відтворення: %1, очікувана кількість = %2</translation>
+        <translation>Errore di analisi della scaletta: %1, previsto contatore = %2</translation>
     </message>
     <message>
         <source>Error parsing playlist at line[%1], expected version = 2</source>
-        <translation>Помилка розбору списку відтворення в рядку [%1], очікувана версія = 2</translation>
+        <translation>Errore di analisi della scaletta alla riga[%1], prevista versione = 2</translation>
     </message>
     <message>
         <source>Error parsing playlist at line[%1]:%2</source>
-        <translation>Помилка розбору списку відтворення в рядку [%1]:%2</translation>
+        <translation>Errore di analisi della scaletta alla riga[%1]:%2</translation>
     </message>
     <message>
         <source>File%1</source>
-        <translation>Файл%1</translation>
+        <translation>File%1</translation>
     </message>
     <message>
         <source>Title%1</source>
-        <translation>Назва%1</translation>
+        <translation>Titolo%1</translation>
     </message>
     <message>
         <source>Length%1</source>
-        <translation>Довжина%1</translation>
+        <translation>Lughezza%1</translation>
     </message>
 </context>
 <context>
     <name>QAndroidAudioEncoderSettingsControl</name>
     <message>
         <source>Adaptive Multi-Rate Narrowband (AMR-NB) audio codec</source>
-        <translation>Адаптивний вузькополосне кодування звуку зі змінною швидкістю (AMR-NB)</translation>
+        <translation>Codec audio Adaptive Multi-Rate Narrowband (AMR-NB)</translation>
     </message>
     <message>
         <source>Adaptive Multi-Rate Wideband (AMR-WB) audio codec</source>
-        <translation>Адаптивний широкополосне кодування звуку зі змінною швидкістю (AMR-WB)</translation>
+        <translation>Codec audio Adaptive Multi-Rate Wideband (AMR-WB)</translation>
     </message>
     <message>
         <source>AAC Low Complexity (AAC-LC) audio codec</source>
-        <translation>Аудіо-кодек AAC низької складності (AAC-LC)</translation>
+        <translation>Codec audio AAC Low Complexity (AAC-LC)</translation>
     </message>
 </context>
 <context>
     <name>QAndroidCameraSession</name>
     <message>
         <source>Camera not ready</source>
-        <translation>Камера не готова</translation>
+        <translation>Fotocamera non pronta</translation>
     </message>
     <message>
         <source>Drive mode not supported</source>
-        <extracomment>Drive mode is the camera&apos;s shutter mode, for example single shot, continuos exposure, etc.</extracomment>
-        <translation>Режим не підтримується</translation>
+        <translation>Modalità di guida non supportata</translation>
     </message>
     <message>
         <source>Could not open destination file: %1</source>
-        <translation>Не вдалось відкрити файл-отримувач: %1</translation>
+        <translation>Impossibile aprire il file di destinazione: %1</translation>
+    </message>
+    <message>
+        <source>Could not load JPEG data from captured image</source>
+        <translation>Impossibile caricare i dati JPEG dall&apos;immagine catturata</translation>
     </message>
 </context>
 <context>
     <name>QAndroidImageEncoderControl</name>
     <message>
         <source>JPEG image</source>
-        <translation>Зображення JPEG</translation>
+        <translation>Immagine JPEG</translation>
     </message>
 </context>
 <context>
     <name>QAndroidMediaContainerControl</name>
     <message>
         <source>MPEG4 media file format</source>
-        <translation>Медіа-файл формату MPEG4</translation>
+        <translation>Formato file multimediale MPEG4</translation>
     </message>
     <message>
         <source>3GPP media file format</source>
-        <translation>Медіа-файл формату 3GPP</translation>
+        <translation>Formato file multimediale 3GPP</translation>
     </message>
     <message>
         <source>AMR NB file format</source>
-        <translation>Файл формату AMR NB</translation>
+        <translation>Formato file AMR NB</translation>
     </message>
     <message>
         <source>AMR WB file format</source>
-        <translation>Файл формату AMR WB</translation>
+        <translation>Formato file AMR WB</translation>
     </message>
 </context>
 <context>
     <name>QAndroidVideoEncoderSettingsControl</name>
     <message>
         <source>H.263 compression</source>
-        <translation>Стиснення H.263</translation>
+        <translation>Compressione H.263</translation>
     </message>
     <message>
         <source>H.264 compression</source>
-        <translation>Стиснення H.264</translation>
+        <translation>Compressione H.264</translation>
     </message>
     <message>
         <source>MPEG-4 SP compression</source>
-        <translation>Стиснення MPEG-4 SP</translation>
+        <translation>Compressione MPEG-4 SP</translation>
     </message>
 </context>
 <context>
     <name>QAudioDecoder</name>
     <message>
         <source>The QAudioDecoder object does not have a valid service</source>
-        <translation>Об&apos;єкт QAudioDecoder не має правильного сервісу</translation>
+        <translation>L&apos;oggetto QAudioDecoder non ha un servizio valido</translation>
     </message>
 </context>
 <context>
     <name>QCamera</name>
     <message>
         <source>The camera service is missing</source>
-        <translation>Сервіс камери відсутній</translation>
+        <translation>Servizio della fotocamera mancante</translation>
     </message>
 </context>
 <context>
     <name>QCameraImageCapture</name>
     <message>
         <source>Device does not support images capture.</source>
-        <translation>Пристрій не підтримує захоплення зображень.</translation>
+        <translation>Il dispositivo non supporta la cattura delle immagini.</translation>
     </message>
 </context>
 <context>
     <name>QCameraPrivate</name>
     <message>
         <source>The camera service is missing</source>
-        <translation type="obsolete">Сервіс камери відсутній</translation>
+        <translation>Servizio della fotocamera mancante</translation>
     </message>
 </context>
 <context>
     <name>QDeclarativeAudio</name>
     <message>
         <source>volume should be between 0.0 and 1.0</source>
-        <translation>гучність має бути між 0.0 та 1.0</translation>
+        <translation>il volume dovrebbe essere tra 0.0 e 1.0</translation>
     </message>
 </context>
 <context>
     <name>QGstreamerAudioDecoderSession</name>
     <message>
         <source>Cannot play stream of type: &lt;unknown&gt;</source>
-        <translation>Неможливо відтворити потік типу: &lt;невідомо&gt;</translation>
+        <translation>Impossibile riprodurre il flusso di tipo: &lt;sconosciuto&gt;</translation>
     </message>
 </context>
 <context>
     <name>QGstreamerAudioEncode</name>
     <message>
         <source>Raw PCM audio</source>
-        <translation>Сире PCM-аудіо</translation>
+        <translation>Audio raw PCM</translation>
     </message>
 </context>
 <context>
     <name>QGstreamerAudioInputSelector</name>
     <message>
         <source>System default device</source>
-        <translation>Типовий пристрій системи</translation>
+        <translation>Dispositivo di sistema predefinito</translation>
     </message>
 </context>
 <context>
     <name>QGstreamerCameraControl</name>
     <message>
         <source>State not supported.</source>
-        <translation>Стан не підтримується.</translation>
+        <translation>Stato non supportato.</translation>
     </message>
 </context>
 <context>
     <name>QGstreamerCaptureSession</name>
     <message>
         <source>Could not create an audio source element</source>
-        <translation>Не вдалось створити елемент джерела аудіо</translation>
+        <translation>Impossibile creare un elemento sorgente audio</translation>
     </message>
     <message>
         <source>Failed to build media capture pipeline.</source>
-        <translation>Збій побудови конвеєра захоплення медіа.</translation>
+        <translation>Creazione del canale di cattura multimediale non riuscito.</translation>
     </message>
 </context>
 <context>
     <name>QGstreamerImageCaptureControl</name>
     <message>
         <source>Not ready to capture</source>
-        <translation>Не готово для захоплення</translation>
+        <translation>Non pronto per la cattura</translation>
     </message>
 </context>
 <context>
     <name>QGstreamerImageEncode</name>
     <message>
         <source>JPEG image encoder</source>
-        <translation>Кодувальник зображень JPEG</translation>
+        <translation>Codificatore immagine JPEG</translation>
     </message>
 </context>
 <context>
     <name>QGstreamerPlayerControl</name>
     <message>
         <source>Attempting to play invalid Qt resource</source>
-        <translation>Спроба відтворити неправильний ресурс Qt</translation>
+        <translation>Tentativo di riproduzione di una risorsa Qt non valida</translation>
     </message>
     <message>
         <source>Attempting to play invalid user stream</source>
-        <translation>Спроба відтворити неправильний потік користувача</translation>
+        <translation>Tentativo di riproduzione di un flusso utente non valido</translation>
     </message>
 </context>
 <context>
     <name>QGstreamerPlayerSession</name>
     <message>
         <source>Cannot play stream of type: &lt;unknown&gt;</source>
-        <translation>Неможливо відтворити потік типу: &lt;невідомо&gt;</translation>
+        <translation>Impossibile riprodurre il flusso di tipo: &lt;sconosciuto&gt;</translation>
     </message>
     <message>
         <source>UDP source timeout</source>
-        <translation>Час очікування джерела UDP вичерпано</translation>
+        <translation>Timeout della sorgente UDP</translation>
     </message>
     <message>
         <source>Media is loaded as a playlist</source>
-        <translation>Медіа завантажено як список відтворення</translation>
+        <translation>Media caricato come playlist</translation>
     </message>
 </context>
 <context>
     <name>QGstreamerRecorderControl</name>
     <message>
         <source>Service has not been started</source>
-        <translation>Сервіс не було запущено</translation>
+        <translation>Il servizio non è stato avviato</translation>
     </message>
     <message>
         <source>Not compatible codecs and container format.</source>
-        <translation>Несумісні кодеки та формат контейнера.</translation>
+        <translation>Codec e formato del contenitore non compatibili.</translation>
     </message>
 </context>
 <context>
     <name>QGstreamerVideoInputDeviceControl</name>
     <message>
         <source>Main camera</source>
-        <translation>Головна камера</translation>
+        <translation>Fotocamera principale</translation>
     </message>
     <message>
         <source>Front camera</source>
-        <translation>Передня камера</translation>
+        <translation>Fotocamera frontale</translation>
     </message>
 </context>
 <context>
     <name>QMediaPlayer</name>
     <message>
         <source>The QMediaPlayer object does not have a valid service</source>
-        <translation>Об&apos;єкт QMediaPlayer не має правильного сервісу</translation>
+        <translation>L&apos;oggetto QMediaPlayer non ha un servizio valido</translation>
     </message>
 </context>
 <context>
     <name>QMediaPlaylist</name>
     <message>
         <source>Could not add items to read only playlist.</source>
-        <translation>Не вдалось додати елементи до списку відтворення лише для читання.</translation>
+        <translation>Impossibile aggiungere elementi ad una playlist di sola lettura.</translation>
     </message>
     <message>
         <source>Playlist format is not supported</source>
-        <translation>Формат списку відтворення не підтримується</translation>
+        <translation>Il formato della playlist non è supportato</translation>
     </message>
     <message>
         <source>The file could not be accessed.</source>
-        <translation>Не вдалось отримати доступ до файлу.</translation>
+        <translation>Il file non è accessibile.</translation>
     </message>
     <message>
         <source>Playlist format is not supported.</source>
-        <translation>Формат списку відтворення не підтримується.</translation>
+        <translation>Il formato della playlist non è supportato.</translation>
     </message>
 </context>
 <context>
     <name>QMultimediaDeclarativeModule</name>
     <message>
         <source>CameraCapture is provided by Camera</source>
-        <translation>Камера надає CameraCapture</translation>
+        <translation>CameraCapture è reso disponibile da Camera</translation>
     </message>
     <message>
         <source>CameraRecorder is provided by Camera</source>
-        <translation>Камера надає CameraRecorder</translation>
+        <translation>CameraRecorder è reso disponibile da Camera</translation>
     </message>
     <message>
         <source>CameraExposure is provided by Camera</source>
-        <translation>Камера надає CameraExposure</translation>
+        <translation>CameraExposure è reso disponibile da Camera</translation>
     </message>
     <message>
         <source>CameraFocus is provided by Camera</source>
-        <translation>Камера надає CameraFocus</translation>
+        <translation>CameraFocus è reso disponibile da Camera</translation>
     </message>
     <message>
         <source>CameraFlash is provided by Camera</source>
-        <translation>Камера надає CameraFlash</translation>
+        <translation>CameraFlash è reso disponibile da Camera</translation>
     </message>
     <message>
         <source>CameraImageProcessing is provided by Camera</source>
-        <translation>Камера надає CameraImageProcessing</translation>
+        <translation>CameraImageProcessing è reso disponibile da Camera</translation>
     </message>
 </context>
 <context>
     <name>QPlaylistFileParser</name>
     <message>
         <source>%1 does not exist</source>
-        <translation>%1 не існує</translation>
+        <translation>%1 non esiste</translation>
     </message>
 </context>
 <context>
     <name>QPlaylistFileParserPrivate</name>
     <message>
         <source>%1 playlist type is unknown</source>
-        <translation>Невідомий тип списку відтворення %1</translation>
+        <translation>Tipo di playlist %1 sconosciuto</translation>
     </message>
     <message>
         <source>invalid line in playlist file</source>
-        <translation>неправильний рядок в файлі списку відтворення</translation>
+        <translation>Riga non valida nel file di playlist</translation>
     </message>
     <message>
         <source>Empty file provided</source>
-        <translation>Надано порожній файл</translation>
+        <translation>Fornito un file vuoto</translation>
     </message>
 </context>
 </TS>
